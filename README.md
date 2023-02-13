@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mat-afk
 - 👀 I’m interested in programing, music, and various games!
-- 🌱 I'm learning javascript and I'm still in high school. I do IT at the Federal Institute of São Paulo, in Brazil.
+- 🌱 I'm learning C, python and java and I'm still in high school. I do IT at the Federal Institute of São Paulo, in Brazil.
 - 📫 You can reach me via e-mail mateusc.ramos@outlook.com and on Twitter @WithoutMateus :)
 
 <!---
